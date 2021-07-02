@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.sendwhatmsg('+91XXXXX678', 'Namaste',19,51)
